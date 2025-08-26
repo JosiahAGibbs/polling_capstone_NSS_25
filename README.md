@@ -14,6 +14,8 @@ Capstone project for Nashville Software School (Aug ’25).
 
 ## Power BI Dashboard
 
+https://app.powerbi.com/links/S986trCVXk?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
+
 ## Motivation
 I have always been fascinated by the horse race of political elections. In my lifetime, I’ve seen two of the most polarizing outcomes—the 2016 and 2024 elections. Although the gap between polls and outcomes narrowed between 2016 and 2024, confidence in polling was shaken in 2016 and again in 2020. Prediction markets have garnered interest over the past decade as a complementary signal for gauging voter sentiment, and there is ongoing research and commentary on their value. Markets move with **money**; polls move with **respondents**. In prediction markets, there is real money at stake, while polls rely on evolving data-collection methods (online panels, phone interviews).
 
